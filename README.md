@@ -28,5 +28,5 @@ JAVA 복습 및 백준 문제풀이, C#과 Unity를 이용한 2d게임 개발 �
 - 6회차 : 2025.08.11 (대면)
 
 ## 4. 모각코 기록
-- 1회차 : [2025.07.11](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_07_11.md)
+- 1회차 : [2025.07.11(금)](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_07_11.md)
 
