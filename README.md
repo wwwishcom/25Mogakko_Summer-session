@@ -28,5 +28,11 @@ JAVA 복습 및 백준 문제풀이, C#과 Unity를 이용한 2d게임 개발 �
 - 6회차 : 2025.08.11 (대면)
 
 ## 4. 모각코 기록
-- 1회차 : [2025.07.11(금)](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_07_11.md)
-
+- 1회차 : [2025.07.11 (금)](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_07_11.md)
+    - 백준 C99 이용하여 문제풀이 및 생성형 AI 서비스 아이디어 정리
+- 2회차 : 2025.07.18 (금)
+    - 백준 C99 이용하여 문제풀이 및 생성형 AI 서비스 개발 중 코드 파이썬으로 구현
+    - 생성형 AI 서비스 UI 제작 및 피드백
+- 3회차 : 2025.07.30 (수)
+    - 백준 C99 이용하여 문제풀이 및 C++ 개념 공부
+- 4회차 : 
