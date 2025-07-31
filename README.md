@@ -33,6 +33,8 @@ JAVA 복습 및 백준 문제풀이, C#과 Unity를 이용한 2d게임 개발 �
 - 2회차 : [2025.07.18 (금)](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_07_18.md)
     - "시간순삭 파이썬" 제2장 LAB03까지 실습
     - 백준 파이썬 이용하여 문제풀이 및 생성형 AI 서비스 개발 중 코드 파이썬으로 구현
-- 3회차 : 2025.07.30 (수)
-    - 백준 C99 이용하여 문제풀이 및 C++ 개념 공부
-- 4회차 : 
+- 3회차 : [2025.07.31 (목)](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_07_31.md)
+    - "시간순삭 파이썬" 제4장 LAB03까지 실습
+    - 백준 파이썬 이용하여 문제풀이 및 배열 문제 파이썬으로 복습
+- 4회차 : 2025.08.02 (토)
+- 
