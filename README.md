@@ -40,7 +40,10 @@ JAVA 복습 및 백준 문제풀이, C#과 Unity를 이용한 2d게임 개발 �
     - 백준 배열 문제 풀이 (Python 3 이용)
     - "시간순삭 파이썬" 제5장 LAB03까지 실습
 - 5회차 : [2025.08.08 (금)](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_08_08.md)
-- 6회차 :
+    - 생성형 AI 대회 React로 구현 및 코드 이용하여 프로젝트 생성
+- 6회차 : [2025.08.11 (월)](https://github.com/wwwishcom/25Mogakko_Summer-session/blob/main/docs/2025_08_11.md)
+    - 생성형 AI 대회 React로 구현 및 코드 이용하여 프로젝트 생성
+    - 백준 배열 두 문제 풀이 및 생성형 AI 대회 파이썬 코드로 구현
 
 ## 모각코 활동 요약
 - C99 이용하여 백준 문제를 풀며 1학기 컴퓨터프로그래밍1 시간에 배운 C언어를 복습하였고 2학기 컴퓨터프로그래밍2 수업을 위해 파이썬 개념 및 백준 문제 풀이, 파이썬 문제집을 통해 실전 문제들을 예습하는 등 여러 언어를 공부하였고, UCPC 대회 문제들을 풀어보며 코딩 대회를 위한 준비도 하였다. 또한 생성형 AI 서비스 개발을 위해 React와 Visual Studio Code를 이용한 대회 준비를 하는 등 모각코 활동을 알차게 보냈다.
